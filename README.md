@@ -47,4 +47,5 @@ The dashboard includes:
 - Interactive **scatter plots** showing relationships between discount and profitability
 - Filtering by **year**, **product line**, and **segment**
 
-📎 **[View the full Power BI dashboard]()**
+📎 **[View Code in Jupyter Notebook](Superstore_P1.ipynb)**
+📎 **[View the full Power BI dashboard](Superstore.pbix)**
